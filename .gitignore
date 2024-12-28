@@ -1,0 +1,30 @@
+# Composer dependencies
+/vendor/
+
+# Composer itself
+/composer.phar
+
+# Logs and temp files
+/logs/
+tmp/
+
+# PHPStorm project files
+.idea/
+
+# Vagrant environment
+.vagrant/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# PHPUnit
+.phpunit.result.cache
+
+# Coverage reports
+coverage/
+
+# Cache
+cache/
